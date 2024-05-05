@@ -1,0 +1,72 @@
+[
+    {
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "department": "Engineering",
+      "salary": 80000,
+      "sick_days_remaining": 10
+    },
+    {
+      "name": "Jane Smith",
+      "position": "Marketing Specialist",
+      "department": "Marketing",
+      "salary": 60000,
+      "sick_days_remaining": 8
+    },
+    {
+      "name": "Robert Johnson",
+      "position": "Financial Analyst",
+      "department": "Finance",
+      "salary": 75000,
+      "sick_days_remaining": 12
+    },
+    {
+      "name": "Emily Davis",
+      "position": "HR Manager",
+      "department": "Human Resources",
+      "salary": 90000,
+      "sick_days_remaining": 15
+    },
+    {
+      "name": "Michael Brown",
+      "position": "Sales Representative",
+      "department": "Sales",
+      "salary": 70000,
+      "sick_days_remaining": 7
+    },
+    {
+      "name": "Jennifer White",
+      "position": "Customer Support Specialist",
+      "department": "Customer Service",
+      "salary": 55000,
+      "sick_days_remaining": 9
+    },
+    {
+      "name": "Andrew Miller",
+      "position": "Graphic Designer",
+      "department": "Design",
+      "salary": 65000,
+      "sick_days_remaining": 11
+    },
+    {
+      "name": "Olivia Robinson",
+      "position": "Product Manager",
+      "department": "Product Management",
+      "salary": 95000,
+      "sick_days_remaining": 14
+    },
+    {
+      "name": "Daniel Taylor",
+      "position": "Operations Coordinator",
+      "department": "Operations",
+      "salary": 72000,
+      "sick_days_remaining": 13
+    },
+    {
+      "name": "Sophia Harris",
+      "position": "Quality Assurance Analyst",
+      "department": "Quality Assurance",
+      "salary": 80000,
+      "sick_days_remaining": 10
+    }
+  ]
